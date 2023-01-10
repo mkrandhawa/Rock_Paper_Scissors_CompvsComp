@@ -1,4 +1,4 @@
-# Rock_Ppaer_Scissors_CompvsComp
+# Rock_Paper_Scissors_CompvsComp
 Rock Paper Scissors game between two computers
 
 Rock Paper Scissors game where the computer will play gainst itself.
